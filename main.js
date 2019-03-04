@@ -1037,11 +1037,11 @@
       function r() {
         function e() {
           var t = {
-              lat: 43.674,
-              lng: -73.945
+              lat: 43.662,
+              lng: -70.255
             },
             e = new google.maps.Map(document.getElementById("map"), {
-              zoom: 12,
+              zoom: 13,
               center: t,
               styles: [{
                 elementType: "geometry",
